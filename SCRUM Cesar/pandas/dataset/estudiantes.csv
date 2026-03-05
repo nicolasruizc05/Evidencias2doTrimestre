@@ -1,0 +1,101 @@
+nombre,edad,sexo,programa,promedio
+Juan Perez,20,Masculino,Ingeniería de Sistemas,4.2
+Maria Garcia,22,Femenino,Medicina,4.8
+Carlos Lopez,19,Masculino,Derecho,3.5
+Ana Martinez,21,Femenino,Psicología,4.1
+Luis Rodriguez,23,Masculino,Administración,3.9
+Laura Sanchez,20,Femenino,Ingeniería Civil,4.5
+Diego Gomez,22,Masculino,Arquitectura,3.2
+Elena Diaz,24,Femenino,Economía,4.7
+Jorge Hernandez,18,Masculino,Diseño Gráfico,3.8
+Sofia Ruiz,21,Femenino,Comunicación Social,4.0
+Andres Torres,25,Masculino,Medicina,4.3
+Lucia Morales,20,Femenino,Ingeniería de Sistemas,3.6
+Mateo Castro,19,Masculino,Derecho,4.1
+Valeria Ortiz,22,Femenino,Psicología,4.9
+Felipe Silva,23,Masculino,Administración,3.4
+Camila Rojas,21,Femenino,Arquitectura,4.2
+Santiago Reyes,20,Masculino,Ingeniería Civil,3.7
+Mariana Vidal,19,Femenino,Biología,4.5
+Nicolas Mendoza,22,Masculino,Economía,3.9
+Daniela Pardo,24,Femenino,Diseño Gráfico,4.1
+Julian Rios,21,Masculino,Ingeniería Industrial,3.3
+Paula Vega,23,Femenino,Medicina,4.6
+Ricardo Luna,20,Masculino,Filosofía,3.8
+Isabella Jara,19,Femenino,Derecho,4.4
+Sebastian Cruz,22,Masculino,Psicología,4.0
+Gabriela Duran,21,Femenino,Administración,4.7
+Manuel Soto,25,Masculino,Ingeniería de Sistemas,3.5
+Victoria Leon,20,Femenino,Arquitectura,4.2
+Kevin Arias,19,Masculino,Comunicación Social,3.1
+Ximena Blanco,22,Femenino,Economía,4.8
+Hugo Ferrer,23,Masculino,Ingeniería Civil,4.0
+Natalia Gil,21,Femenino,Biología,4.3
+Ivan Rivas,20,Masculino,Diseño Gráfico,3.6
+Andrea Soler,24,Femenino,Derecho,4.9
+Oscar Mendez,18,Masculino,Medicina,4.2
+Rosa Campos,22,Femenino,Psicología,3.7
+Fabian Navarro,21,Masculino,Administración,4.1
+Sara Marin,23,Femenino,Ingeniería Industrial,4.5
+Victor Peralta,20,Masculino,Filosofía,3.2
+Claudia Bravo,19,Femenino,Comunicación Social,4.6
+Raul Fuentes,22,Masculino,Ingeniería de Sistemas,3.9
+Beatriz Mora,21,Femenino,Arquitectura,4.4
+Marcos Salgado,25,Masculino,Economía,3.5
+Adriana Tovar,20,Femenino,Biología,4.1
+Mario Vargas,19,Masculino,Derecho,3.8
+Estefania Londoño,22,Femenino,Medicina,4.7
+Cesar Paredes,23,Masculino,Ingeniería Civil,3.3
+Monica Salazar,21,Femenino,Psicología,4.2
+Hector Prieto,20,Masculino,Administración,4.0
+Jimena Acosta,24,Femenino,Diseño Gráfico,4.5
+Fernando Cabrera,18,Masculino,Ingeniería Industrial,3.7
+Silvia Orozco,22,Femenino,Derecho,4.3
+Esteban Gallo,21,Masculino,Filosofía,3.9
+Angela Herrera,23,Femenino,Ingeniería de Sistemas,4.8
+Javier Jimenez,20,Masculino,Comunicación Social,3.4
+Paola Quintero,19,Femenino,Arquitectura,4.1
+Cristian Bernal,22,Masculino,Economía,4.0
+Lorena Carmona,21,Femenino,Medicina,4.6
+Gustavo Duarte,25,Masculino,Psicología,3.2
+Patricia Escobar,20,Femenino,Administración,4.4
+Mauricio Franco,19,Masculino,Ingeniería Civil,3.8
+Diana Garzon,22,Femenino,Biología,4.9
+Alvaro Holguin,23,Masculino,Diseño Gráfico,3.5
+Tatiana Ibarra,21,Femenino,Derecho,4.2
+Rodrigo Jaimes,20,Masculino,Ingeniería Industrial,4.1
+Vanessa Lozano,24,Femenino,Filosofía,3.7
+Enrique Mejia,18,Masculino,Ingeniería de Sistemas,4.5
+Karla Nuñez,22,Femenino,Arquitectura,3.9
+Leonardo Ospina,21,Masculino,Comunicación Social,4.3
+Marta Peña,23,Femenino,Economía,4.0
+Samuel Quintana,20,Masculino,Medicina,4.7
+Rocio Restrepo,19,Femenino,Psicología,3.6
+Ignacio Suarez,22,Masculino,Administración,4.1
+Blanca Trujillo,21,Femenino,Ingeniería Civil,4.4
+Joaquin Uribe,25,Masculino,Biología,3.8
+Gloria Valbuena,20,Femenino,Diseño Gráfico,4.2
+Arturo Zapata,19,Masculino,Derecho,3.3
+Yolanda Agudelo,22,Femenino,Ingeniería Industrial,4.9
+Bruno Becerra,23,Masculino,Filosofía,4.0
+Cecilia Caicedo,21,Femenino,Ingeniería de Sistemas,4.5
+Dario Delgado,20,Masculino,Arquitectura,3.7
+Emilia Estrada,24,Femenino,Comunicación Social,4.1
+Federico Fajardo,18,Masculino,Economía,3.9
+Gisela Giraldo,22,Femenino,Medicina,4.8
+Hernan Hoyos,21,Masculino,Psicología,3.4
+Irene Isaza,23,Femenino,Administración,4.3
+Jaime Jaramillo,20,Masculino,Ingeniería Civil,4.0
+Karen Konig,19,Femenino,Biología,4.6
+Lucas Lema,22,Masculino,Diseño Gráfico,3.5
+Miriam Mesa,21,Femenino,Derecho,4.2
+Nestor Niño,25,Masculino,Ingeniería Industrial,4.1
+Olga Olarte,20,Femenino,Filosofía,3.8
+Pablo Posada,19,Masculino,Ingeniería de Sistemas,4.7
+Quique Quevedo,22,Masculino,Arquitectura,3.2
+Rebeca Rincon,23,Femenino,Comunicación Social,4.5
+Simon Serna,21,Masculino,Economía,4.0
+Teresa Tello,20,Femenino,Medicina,4.9
+Ulises Urbina,24,Masculino,Psicología,3.7
+Violeta Velez,18,Femenino,Administración,4.3
+Walter Wagner,22,Masculino,Ingeniería Civil,3.6
