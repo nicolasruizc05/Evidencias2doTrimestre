@@ -1,0 +1,82 @@
+[
+    {
+        "producto":"Laptop básica",
+        "valor_total":3600000
+    },
+    {
+        "producto":"Mouse inalámbrico",
+        "valor_total":450000
+    },
+    {
+        "producto":"Teclado mecánico",
+        "valor_total":1100000
+    },
+    {
+        "producto":"Monitor 24 pulgadas",
+        "valor_total":1950000
+    },
+    {
+        "producto":"Disco duro externo 1TB",
+        "valor_total":1280000
+    },
+    {
+        "producto":"Memoria USB 64GB",
+        "valor_total":420000
+    },
+    {
+        "producto":"Audífonos inalámbricos",
+        "valor_total":1080000
+    },
+    {
+        "producto":"Tablet",
+        "valor_total":2700000
+    },
+    {
+        "producto":"Smartphone gama media",
+        "valor_total":4800000
+    },
+    {
+        "producto":"Cargador portátil (Power Bank)",
+        "valor_total":560000
+    },
+    {
+        "producto":"Router WiFi",
+        "valor_total":750000
+    },
+    {
+        "producto":"Cámara web HD",
+        "valor_total":570000
+    },
+    {
+        "producto":"Micrófono USB",
+        "valor_total":640000
+    },
+    {
+        "producto":"Tarjeta microSD 128GB",
+        "valor_total":560000
+    },
+    {
+        "producto":"Cable HDMI",
+        "valor_total":250000
+    },
+    {
+        "producto":"Base refrigerante para laptop",
+        "valor_total":340000
+    },
+    {
+        "producto":"Parlantes para PC",
+        "valor_total":600000
+    },
+    {
+        "producto":"SSD 500GB",
+        "valor_total":1680000
+    },
+    {
+        "producto":"Impresora multifuncional",
+        "valor_total":1500000
+    },
+    {
+        "producto":"Smartwatch",
+        "valor_total":1050000
+    }
+]

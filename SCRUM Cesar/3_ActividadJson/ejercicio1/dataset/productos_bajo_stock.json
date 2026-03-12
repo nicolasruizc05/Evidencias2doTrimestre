@@ -1,0 +1,56 @@
+[
+    {
+        "producto":"Laptop básica",
+        "precio_unitario":1800000,
+        "cantidad":2,
+        "valor_total":3600000
+    },
+    {
+        "producto":"Monitor 24 pulgadas",
+        "precio_unitario":650000,
+        "cantidad":3,
+        "valor_total":1950000
+    },
+    {
+        "producto":"Disco duro externo 1TB",
+        "precio_unitario":320000,
+        "cantidad":4,
+        "valor_total":1280000
+    },
+    {
+        "producto":"Tablet",
+        "precio_unitario":900000,
+        "cantidad":3,
+        "valor_total":2700000
+    },
+    {
+        "producto":"Smartphone gama media",
+        "precio_unitario":1200000,
+        "cantidad":4,
+        "valor_total":4800000
+    },
+    {
+        "producto":"Micrófono USB",
+        "precio_unitario":160000,
+        "cantidad":4,
+        "valor_total":640000
+    },
+    {
+        "producto":"Base refrigerante para laptop",
+        "precio_unitario":85000,
+        "cantidad":4,
+        "valor_total":340000
+    },
+    {
+        "producto":"Impresora multifuncional",
+        "precio_unitario":750000,
+        "cantidad":2,
+        "valor_total":1500000
+    },
+    {
+        "producto":"Smartwatch",
+        "precio_unitario":350000,
+        "cantidad":3,
+        "valor_total":1050000
+    }
+]

@@ -1,6 +1,6 @@
 from clases import *
 from datetime import datetime as dt, timedelta
-#Creacuion de la empresa y departamentos
+#Creacion de la empresa y departamentos
 
 miEmpresa=Empresa("EDU_TEST_SOFT")
 miDepartamento1=Departamento("Recursos Humanos")

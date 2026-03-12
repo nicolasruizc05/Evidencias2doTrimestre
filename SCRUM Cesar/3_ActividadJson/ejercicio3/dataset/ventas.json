@@ -1,0 +1,152 @@
+[
+    {
+        "vendedor": "Carlos",
+        "mes": "Enero",
+        "ventas": 12000
+    },
+    {
+        "vendedor": "Laura",
+        "mes": "Enero",
+        "ventas": 15000
+    },
+    {
+        "vendedor": "Andres",
+        "mes": "Enero",
+        "ventas": 9800
+    },
+    {
+        "vendedor": "Sofia",
+        "mes": "Enero",
+        "ventas": 13200
+    },
+    {
+        "vendedor": "Miguel",
+        "mes": "Enero",
+        "ventas": 11000
+    },
+    {
+        "vendedor": "Carlos",
+        "mes": "Febrero",
+        "ventas": 14000
+    },
+    {
+        "vendedor": "Laura",
+        "mes": "Febrero",
+        "ventas": 16000
+    },
+    {
+        "vendedor": "Andres",
+        "mes": "Febrero",
+        "ventas": 10500
+    },
+    {
+        "vendedor": "Sofia",
+        "mes": "Febrero",
+        "ventas": 13800
+    },
+    {
+        "vendedor": "Miguel",
+        "mes": "Febrero",
+        "ventas": 12000
+    },
+    {
+        "vendedor": "Carlos",
+        "mes": "Marzo",
+        "ventas": 15000
+    },
+    {
+        "vendedor": "Laura",
+        "mes": "Marzo",
+        "ventas": 17000
+    },
+    {
+        "vendedor": "Andres",
+        "mes": "Marzo",
+        "ventas": 11200
+    },
+    {
+        "vendedor": "Sofia",
+        "mes": "Marzo",
+        "ventas": 14500
+    },
+    {
+        "vendedor": "Miguel",
+        "mes": "Marzo",
+        "ventas": 13000
+    },
+    {
+        "vendedor": "Carlos",
+        "mes": "Abril",
+        "ventas": 15500
+    },
+    {
+        "vendedor": "Laura",
+        "mes": "Abril",
+        "ventas": 17500
+    },
+    {
+        "vendedor": "Andres",
+        "mes": "Abril",
+        "ventas": 11800
+    },
+    {
+        "vendedor": "Sofia",
+        "mes": "Abril",
+        "ventas": 15000
+    },
+    {
+        "vendedor": "Miguel",
+        "mes": "Abril",
+        "ventas": 13500
+    },
+    {
+        "vendedor": "Carlos",
+        "mes": "Mayo",
+        "ventas": 16000
+    },
+    {
+        "vendedor": "Laura",
+        "mes": "Mayo",
+        "ventas": 18000
+    },
+    {
+        "vendedor": "Andres",
+        "mes": "Mayo",
+        "ventas": 12000
+    },
+    {
+        "vendedor": "Sofia",
+        "mes": "Mayo",
+        "ventas": 15500
+    },
+    {
+        "vendedor": "Miguel",
+        "mes": "Mayo",
+        "ventas": 14000
+    },
+    {
+        "vendedor": "Carlos",
+        "mes": "Junio",
+        "ventas": 16500
+    },
+    {
+        "vendedor": "Laura",
+        "mes": "Junio",
+        "ventas": 18500
+    },
+    {
+        "vendedor": "Andres",
+        "mes": "Junio",
+        "ventas": 12500
+    },
+    {
+        "vendedor": "Sofia",
+        "mes": "Junio",
+        "ventas": 16000
+    },
+    {
+        "vendedor": "Miguel",
+        "mes": "Junio",
+        "ventas": 14500
+    }
+]
