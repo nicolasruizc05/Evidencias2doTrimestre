@@ -34,7 +34,7 @@ productos=pd.read_json("dataset/productos.json")
 def valorTotalProductos(productos):
     productos["valor_total"]=productos["precio_unitario"]*productos["cantidad"]
     valorTotal=productos[["producto","valor_total"]]
-    return valorTotal
+    return productos
 
 def TotalInventario(productos):
     productos["valor_total"]=productos["precio_unitario"]*productos["cantidad"]
@@ -55,8 +55,10 @@ def menu():
         match opcion:
             case "1":
                 resultado=valorTotalProductos(productos)
+                print(productos)
                 resultado.to_json("dataset/valor_total_producto.json",orient="records",indent=4,force_ascii=False)
                 print(f"Valor total por producto: \n{resultado}\n")
+                
             case "2":
                 inventario=TotalInventario(productos)
                 data = {
@@ -75,3 +77,4 @@ def menu():
             case _:
                 print("Opción no válida. Por favor, seleccione una opción del 1 al 4.")
 menu()
+

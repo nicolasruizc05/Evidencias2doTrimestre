@@ -1,0 +1,52 @@
+[
+    {
+        "Departamento": "Antioquia",
+        "Cantidad_Votantes_Hombres": 1250000,
+        "Cantidad_Votantes_Mujeres": 1300000
+    },
+    {
+        "Departamento": "Cundinamarca",
+        "Cantidad_Votantes_Hombres": 980000,
+        "Cantidad_Votantes_Mujeres": 1020000
+    },
+    {
+        "Departamento": "Valle del Cauca",
+        "Cantidad_Votantes_Hombres": 900000,
+        "Cantidad_Votantes_Mujeres": 950000
+    },
+    {
+        "Departamento": "Atlántico",
+        "Cantidad_Votantes_Hombres": 620000,
+        "Cantidad_Votantes_Mujeres": 650000
+    },
+    {
+        "Departamento": "Santander",
+        "Cantidad_Votantes_Hombres": 540000,
+        "Cantidad_Votantes_Mujeres": 560000
+    },
+    {
+        "Departamento": "Bolívar",
+        "Cantidad_Votantes_Hombres": 500000,
+        "Cantidad_Votantes_Mujeres": 520000
+    },
+    {
+        "Departamento": "Boyacá",
+        "Cantidad_Votantes_Hombres": 410000,
+        "Cantidad_Votantes_Mujeres": 430000
+    },
+    {
+        "Departamento": "Nariño",
+        "Cantidad_Votantes_Hombres": 380000,
+        "Cantidad_Votantes_Mujeres": 400000
+    },
+    {
+        "Departamento": "Tolima",
+        "Cantidad_Votantes_Hombres": 360000,
+        "Cantidad_Votantes_Mujeres": 370000
+    },
+    {
+        "Departamento": "Meta",
+        "Cantidad_Votantes_Hombres": 220000,
+        "Cantidad_Votantes_Mujeres": 230000
+    }
+]
